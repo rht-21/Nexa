@@ -7,8 +7,6 @@ Nexa is a robust and user-friendly video conferencing application built using Ne
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
@@ -70,19 +68,19 @@ To get started with Nexa, follow these steps:
 Nexa offers a variety of features to facilitate your video conferencing needs:
 
 ### Creating a Meeting
-To create an instant meeting room
+- To create an instant meeting room
 
 ### Scheduling a Meeting
-To schedule a meeting for future use
+- To schedule a meeting for future use
 
 ### Joining a Meeting
-To join an existing meeting:
+- To join an existing meeting:
 
 ### Recording Meetings
-To record a meeting for future reference:
+- To record a meeting for future reference:
 
 ### Screen Sharing
-To share your screen with other participants:
+- To share your screen with other participants:
 
 Nexa makes it easy to host, schedule, join, and manage your video conferences efficiently.
 
@@ -90,5 +88,5 @@ Nexa makes it easy to host, schedule, join, and manage your video conferences ef
 
 If you have any questions, suggestions, or feedback, feel free to contact me at:
 
-    Email: iamrht21@gmail.com
-    Instagram: @rht21
+- Email: iamrht21@gmail.com
+- Instagram: @rht21
